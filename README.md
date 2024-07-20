@@ -1,4 +1,5 @@
 HATE SPEECH DETECTION USING MACHINE LEARNING
+
 In this project i have Trained a machine learning model (Decision Tree Model along with TF-IDF Vectorizer for feature extraction) to detect hate speechwith an accuracy of 93.64% .
 
 
